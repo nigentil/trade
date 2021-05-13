@@ -1,0 +1,13 @@
+C:\Users\nival.goncalves\source\repos\trade\trade\bin\Debug\CreditSuisse.exe.config
+C:\Users\nival.goncalves\source\repos\trade\trade\bin\Debug\CreditSuisse.exe
+C:\Users\nival.goncalves\source\repos\trade\trade\bin\Debug\CreditSuisse.pdb
+C:\Users\nival.goncalves\source\repos\trade\trade\bin\Debug\Newtonsoft.Json.dll
+C:\Users\nival.goncalves\source\repos\trade\trade\bin\Debug\Newtonsoft.Json.xml
+C:\Users\nival.goncalves\source\repos\trade\trade\obj\Debug\TRADE.csprojAssemblyReference.cache
+C:\Users\nival.goncalves\source\repos\trade\trade\obj\Debug\CreditSuisse.Form1.resources
+C:\Users\nival.goncalves\source\repos\trade\trade\obj\Debug\CreditSuisse.Properties.Resources.resources
+C:\Users\nival.goncalves\source\repos\trade\trade\obj\Debug\TRADE.csproj.GenerateResource.cache
+C:\Users\nival.goncalves\source\repos\trade\trade\obj\Debug\TRADE.csproj.CoreCompileInputs.cache
+C:\Users\nival.goncalves\source\repos\trade\trade\obj\Debug\TRADE.csproj.CopyComplete
+C:\Users\nival.goncalves\source\repos\trade\trade\obj\Debug\CreditSuisse.exe
+C:\Users\nival.goncalves\source\repos\trade\trade\obj\Debug\CreditSuisse.pdb

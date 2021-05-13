@@ -1,0 +1,18 @@
+[
+  {
+    "Value": 2000000.00,
+    "ClientSector": "Private"
+  },
+  {
+    "Value": 400000.00,
+    "ClientSector": "Public"
+  },
+  {
+    "Value": 500000.00,
+    "ClientSector": "Public"
+  },
+  {
+    "Value": 3000000.00,
+    "ClientSector": "Public"
+  }
+]
